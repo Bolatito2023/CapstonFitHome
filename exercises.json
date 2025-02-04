@@ -1,6 +1,7 @@
 [
   {
     "name": "Hamstring Stretch",
+    "id": 1,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -14,6 +15,7 @@
   },
   {
     "name": "Quad Stretch",
+    "id": 2,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -27,6 +29,7 @@
   },
   {
     "name": "Chest Stretch",
+    "id": 3,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -40,6 +43,7 @@
   },
   {
     "name": "Triceps Stretch",
+    "id": 4,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -53,6 +57,7 @@
   },
   {
     "name": "Cat-Cow Stretch",
+    "id": 5,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -66,6 +71,7 @@
   },
   {
     "name": "Seated Forward Fold",
+    "id": 6,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -79,6 +85,7 @@
   },
   {
     "name": "Cobra Stretch",
+    "id": 7,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -88,10 +95,11 @@
     "equipment": "None",
     "instructions": "Lie face down, place your hands under your shoulders, and press into the floor as you lift your chest upward.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/cobra_stretch.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/cobra-stretch.gif"
   },
   {
     "name": "Hip Flexor Stretch",
+    "id": 8,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -101,10 +109,11 @@
     "equipment": "None",
     "instructions": "Lunge forward with one leg, keeping your back knee on the ground and pressing your hips forward to stretch the hip flexors.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/hip_flexor_stretch.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/hip-flexor-stretch.gif"
   },
   {
     "name": "Side Stretch",
+    "id": 9,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -118,6 +127,7 @@
   },
   {
     "name": "Neck Stretch",
+    "id": 10,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -127,10 +137,11 @@
     "equipment": "None",
     "instructions": "Gently tilt your head toward one shoulder, feeling a stretch on the side of your neck. Hold and switch sides.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/neck_stretch.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/neck-stretch.gif"
   },
   {
     "name": "Butterfly Stretch",
+    "id": 11,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -144,6 +155,7 @@
   },
   {
     "name": "Standing Forward Fold",
+    "id": 12,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -157,6 +169,7 @@
   },
   {
     "name": "Child’s Pose",
+    "id": 13,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -166,10 +179,11 @@
     "equipment": "None",
     "instructions": "Kneel on the floor, then sit back on your heels and stretch your arms forward on the floor, lowering your chest toward the ground.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/childs_pose.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/child-pose.gif"
   },
   {
     "name": "Russian Twist",
+    "id": 14,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -183,6 +197,7 @@
   },
   {
     "name": "Lower Back Stretch",
+    "id": 15,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -196,6 +211,7 @@
   },
   {
     "name": "Wrist Stretch",
+    "id": 16,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -205,10 +221,11 @@
     "equipment": "None",
     "instructions": "Extend one arm forward with the palm up. With the opposite hand, gently pull the fingers back toward your body to stretch the wrist and forearm.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/wrist_stretch.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/wrist-circles.gif"
   },
   {
     "name": "Calf Stretch",
+    "id": 16,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -222,6 +239,7 @@
   },
   {
     "name": "Standing Hip Stretch",
+    "id": 16,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -231,10 +249,11 @@
     "equipment": "None",
     "instructions": "Stand tall and place one ankle on the opposite knee. Gently press down on the raised knee to stretch the hip.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/standing_hip_stretch.gif"
-  }
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/standing%20hip%20stretch.gif"
+  },
   {
-    "name": "Pigeon Pose",
+    "name": "Pigeon Pose",    
+    "id": 17,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -244,10 +263,11 @@
     "equipment": "None",
     "instructions": "From a kneeling position, extend one leg behind you while bringing the other leg forward and bending it at the knee. Lower your torso toward the floor to stretch the hip.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/pigeon_pose.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/pigeon-pose.gif"
   },
   {
     "name": "Wall Chest Stretch",
+    "id": 18,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -258,9 +278,10 @@
     "instructions": "Stand near a wall, place your hand on the wall, and gently rotate your torso away from the wall to stretch the chest and shoulders.",
     "duration": "30 seconds",
     "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/wall_chest_stretch.gif"
-  }
+  },
   {
     "name": "Resistance Band Hamstring Stretch",
+    "id": 19,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -274,6 +295,7 @@
   },
   {
     "name": "Foam Roller Calf Stretch",
+    "id": 20,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -287,6 +309,7 @@
   },
   {
     "name": "Band-Assisted Shoulder Stretch",
+    "id": 21,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -300,6 +323,7 @@
   },
   {
     "name": "Kettlebell Shoulder Stretch",
+    "id": 22,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -309,10 +333,11 @@
     "equipment": "Kettlebell",
     "instructions": "Hold a kettlebell with both hands and raise it overhead. Use your opposite hand to gently stretch the triceps and shoulders.",
     "duration": "30 seconds",
-    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/kettlebell_shoulder_stretch.gif"
+    "gifUrl": "https://github.com/Bolatito2023/CapstonFitHome/blob/main/hold/kettlebell_shoulder.gif"
   },
   {
     "name": "Foam Roller Upper Back Stretch",
+    "id": 23,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -326,6 +351,7 @@
   },
   {
     "name": "Dumbbell Chest Stretch",
+    "id": 24,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -339,6 +365,7 @@
   },
   {
     "name": "Barbell Hip Flexor Stretch",
+    "id": 25,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -352,6 +379,7 @@
   },
   {
     "name": "Stretching with a Resistance Band",
+    "id": 26,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -365,6 +393,7 @@
   },
   {
     "name": "Seated Band Hip Stretch",
+    "id": 27,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -378,6 +407,7 @@
   },
   {
     "name": "Foam Roller IT Band Stretch",
+    "id": 28,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -391,6 +421,7 @@
   },
   {
     "name": "Kettlebell Triceps Stretch",
+    "id": 29,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -404,6 +435,7 @@
   },
   {
     "name": "Foam Roller Lower Back Stretch",
+    "id": 30,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -417,6 +449,7 @@
   },
   {
     "name": "Resistance Band Shoulder Stretch",
+    "id": 31,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -430,6 +463,7 @@
   },
   {
     "name": "Dumbbell Side Stretch",
+    "id": 32,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -443,6 +477,7 @@
   },
   {
     "name": "Foam Roller Adductor Stretch",
+    "id": 33,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -456,6 +491,7 @@
   },
   {
     "name": "Resistance Band Quadriceps Stretch",
+    "id": 34,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -469,6 +505,7 @@
   },
   {
     "name": "Medicine Ball Hamstring Stretch",
+    "id": 35,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -482,6 +519,7 @@
   },
   {
     "name": "Dumbbell Chest Opener",
+    "id": 36,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -495,6 +533,7 @@
   },
   {
     "name": "Barbell Overhead Stretch",
+    "id": 37,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -508,6 +547,7 @@
   },
   {
     "name": "Kettlebell Lunge Stretch",
+    "id": 38,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -521,6 +561,7 @@
   },
   {
     "name": "Foam Roller T-Spine Stretch",
+    "id": 39,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -534,6 +575,7 @@
   },
   {
     "name": "Resistance Band Glute Stretch",
+    "id": 40,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -547,6 +589,7 @@
   },
   {
     "name": "Dumbbell Side Lateral Stretch",
+    "id": 41,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -560,6 +603,7 @@
   },
   {
     "name": "Barbell Chest Stretch",
+    "id": 42,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
@@ -573,6 +617,7 @@
   },
   {
     "name": "Stretching with Foam Roller",
+    "id": 43,
     "minAge": 0,
     "maxAge": 99,
     "minWeight": 0,
